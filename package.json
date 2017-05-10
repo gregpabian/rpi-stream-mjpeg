@@ -1,0 +1,16 @@
+{
+  "name": "rpi-stream-mjpeg",
+  "version": "0.1.0",
+  "description": "Raspberry Pi MJPEG video streaming using v4l2",
+  "main": "src/capture.js",
+  "dependencies": {
+    "subcommander": "^1.0.0",
+    "v4l2camera": "^1.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Greg Pabian <greg.pabian@gmail.com>",
+  "license": "MIT"
+}
